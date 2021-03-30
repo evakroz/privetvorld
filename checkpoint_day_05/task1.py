@@ -1,5 +1,5 @@
 # Task 1: count all chocolate cakes
-
+# Can you see my comments?
 cakes = [
     {'type': 'donut', 'name': 'Cake', 'batter': "Regular", 'topping': 'None'},
     {'type': 'donut', 'name': 'Cake', 'batter': "Regular", 'topping': 'Glazed'},
